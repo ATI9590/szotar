@@ -1,0 +1,15 @@
+C:\Users\Attila\Documents\GitHub\szotar\bin\Debug\net6.0\szotar.exe
+C:\Users\Attila\Documents\GitHub\szotar\bin\Debug\net6.0\szotar.deps.json
+C:\Users\Attila\Documents\GitHub\szotar\bin\Debug\net6.0\szotar.runtimeconfig.json
+C:\Users\Attila\Documents\GitHub\szotar\bin\Debug\net6.0\szotar.dll
+C:\Users\Attila\Documents\GitHub\szotar\bin\Debug\net6.0\szotar.pdb
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.csproj.AssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.AssemblyInfoInputs.cache
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.AssemblyInfo.cs
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.dll
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\refint\szotar.dll
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.pdb
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\szotar.genruntimeconfig.cache
+C:\Users\Attila\Documents\GitHub\szotar\obj\Debug\net6.0\ref\szotar.dll
